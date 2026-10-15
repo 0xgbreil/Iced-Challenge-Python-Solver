@@ -29,4 +29,3 @@ python3 solve.py script.ps1
 The script outputs the **deobfuscated PowerShell command**, which can then be analyzed manually to identify and decode the Base64 payload.
 
 > This script is created for educational and CTF purposes.
-```
