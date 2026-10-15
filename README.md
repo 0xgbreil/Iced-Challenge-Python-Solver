@@ -1,4 +1,4 @@
-# Iced-Challenge--Python-Solver
+# Iced Challenge - Python Solver
 
 A simple Python script created to help deobfuscate the PowerShell payload used in the **ICED** challenge from **FlagYard CTF**.
 
