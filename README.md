@@ -7,7 +7,7 @@ A simple Python script created to help deobfuscate the PowerShell payload used i
 
 ## Video
 
-
+https://youtu.be/wpvD7_UiVMw?si=9FfAOC5JLdPJ-cqL
 
 ## Description
 
